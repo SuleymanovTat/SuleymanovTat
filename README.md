@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymanovtat&label=Profile%20views&color=0e75b6&style=flat" alt="suleymanovtat" /> </p>
 
-- 🌱 I’m currently learning **Android, Kotlin, Java, Spring**
+- 🌱 I’m currently learning **Android, Kotlin, Java, Swift, Spring**
 
 - 💬 Ask me about **Android**
 
